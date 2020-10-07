@@ -1,11 +1,11 @@
 
 <h1 align='center'> Somya Dashora </h1>
-<h4 align='center'> RTL Design Engineer </h4>
-<h4 align='center'> Udaipur Rajasthan </h4>
+<h4 align='center'> RTL Design Engineer,  Udaipur Rajasthan </h4>
+<h6 align='center'> [![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]</h6>
 <!-- # 
 ####  -->
 
-Loves [Sublime Text](https://www.sublimetext.com/)
+[Sublime Text is :heartpulse:](https://www.sublimetext.com/)
 
 ### Working at:
 
@@ -17,12 +17,12 @@ Can't Disclose :-P
 
 
 ### I know some things about:
-* [Questasim](https://www.mentor.com/products/fv/questa/}{QuestaSim},)
-* [Verilator](https://www.veripool.org/wiki/verilator}{Verilator}})
-* [Vivado Synthesis](https://www.xilinx.com/products/design-tools/vivado.html}{Vivado}})
-* [AutoCheck]({https://www.mentor.com/products/fv/questa-autocheck}{AutoCheck}})
-* [git](https://git-scm.com/}{ Git},)
-* [Zotero](https://www.zotero.org/}{ Zotero}})
+* [Questasim](https://www.mentor.com/products/fv/questa/)
+* [Verilator](https://www.veripool.org/wiki/verilatorVerilator)
+* [Vivado Synthesis](https://www.xilinx.com/products/design-tools/vivado.html)
+* [AutoCheck](https://www.mentor.com/products/fv/questa-autocheck)
+* [git](https://git-scm.com/)
+* [Zotero](https://www.zotero.org/)
 
 ### Languages Known :
 
