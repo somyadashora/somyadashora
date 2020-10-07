@@ -1,7 +1,8 @@
 
 <h1 align='center'> Somya Dashora </h1>
 <h4 align='center'> RTL Design Engineer,  Udaipur Rajasthan </h4>
-<h4 align='center'> [:computer:](https://www.linkedin.com/in/somya-dashora-7a395575/) </h4>
+
+#### [:computer:](https://www.linkedin.com/in/somya-dashora-7a395575/)
 
 
 [Sublime Text is :heartpulse:](https://www.sublimetext.com/)
@@ -16,12 +17,12 @@
 
 
 ### I know some things about:
-* [Questasim](https://www.mentor.com/products/fv/questa/)
-* [Verilator](https://www.veripool.org/wiki/verilatorVerilator)
-* [Vivado Synthesis](https://www.xilinx.com/products/design-tools/vivado.html)
-* [AutoCheck](https://www.mentor.com/products/fv/questa-autocheck)
-* [git](https://git-scm.com/)
-* [Zotero](https://www.zotero.org/)
+* _[Questasim](https://www.mentor.com/products/fv/questa/)_
+* _[Verilator](https://www.veripool.org/wiki/verilatorVerilator)_
+* _[Vivado Synthesis](https://www.xilinx.com/products/design-tools/vivado.html)_
+* _[AutoCheck](https://www.mentor.com/products/fv/questa-autocheck)_
+* _[git](https://git-scm.com/)_
+* _[Zotero](https://www.zotero.org/)_
 
 ### Languages Known :
 
@@ -41,16 +42,16 @@ doi: 10.1109/VDAT50263.2020.9190377.
 
 ### Other things about me :upside_down_face:
 
-Breaking Bad is the Single Greatest T.V. shown on the face of this earth (PERIOD) !!!
+**_Breaking Bad_** is the Single Greatest T.V. shown on the face of this earth (**PERIOD**) !!!
 
 I think the amount of work done is propotional to the amount of time spent listening Jazzz...
 
 * [Grover Washington Jr.](https://www.youtube.com/watch?v=RTEuTJU01QA&list=PLRcVhl4cKJmoUtjUgZybn4lVMOTZ21TPg&index=1)
 
 * [John Coltrane](https://www.youtube.com/watch?v=UlFNy9iWrpE&list=PLRcVhl4cKJmoUtjUgZybn4lVMOTZ21TPg&index=2)
-	* [Giant Steps](https://www.youtube.com/watch?v=xy_fxxj1mMY&list=PLRcVhl4cKJmoUtjUgZybn4lVMOTZ21TPg&index=5)
-	* [Blue Train](https://www.youtube.com/watch?v=fEqrnR7_yT8&list=PLRcVhl4cKJmoUtjUgZybn4lVMOTZ21TPg&index=6)
-	* [12 Hours of John Coltrane](https://www.youtube.com/watch?v=TuogFx7ADRs&list=PLRcVhl4cKJmoUtjUgZybn4lVMOTZ21TPg&index=77)
+     * [Giant Steps](https://www.youtube.com/watch?v=xy_fxxj1mMY&list=PLRcVhl4cKJmoUtjUgZybn4lVMOTZ21TPg&index=5)
+	 * [Blue Train](https://www.youtube.com/watch?v=fEqrnR7_yT8&list=PLRcVhl4cKJmoUtjUgZybn4lVMOTZ21TPg&index=6)
+	 * [12 Hours of John Coltrane](https://www.youtube.com/watch?v=TuogFx7ADRs&list=PLRcVhl4cKJmoUtjUgZybn4lVMOTZ21TPg&index=77)
 
 * [Miles Davis](https://www.youtube.com/watch?v=lKoybkBF9Ik&list=PLRcVhl4cKJmoUtjUgZybn4lVMOTZ21TPg&index=22)
 
