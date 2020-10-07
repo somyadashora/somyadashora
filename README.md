@@ -1,8 +1,8 @@
 
 <h1 align='center'> Somya Dashora </h1>
 <h4 align='center'> RTL Design Engineer,  Udaipur Rajasthan </h4>
+<h4 align='center'> [:computer:](https://www.linkedin.com/in/somya-dashora-7a395575/) </h4>
 
-#### [:computer:](https://www.linkedin.com/in/somya-dashora-7a395575/) {align=centre}
 
 
 [Sublime Text is :heartpulse:](https://www.sublimetext.com/)
