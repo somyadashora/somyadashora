@@ -1,6 +1,6 @@
 
 <h1 align='center'> Somya Dashora </h1>
-<h4 align='center'> RTL Design Engineer,  Udaipur Rajasthan </h4>
+<h3 align='center'> RTL Design Engineer,  Udaipur Rajasthan </h3>
 <h4 align='center'> [:computer:](https://www.linkedin.com/in/somya-dashora-7a395575/) </h4>
 
 
