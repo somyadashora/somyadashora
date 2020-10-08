@@ -28,7 +28,7 @@
 
 * Verilog, System Verilog, VHDL, Bluespec
 * Make, tcl, shell
-* LATEX, Beamer
+* LaTeX, Beamer
 
 
 ### Some of My known Works:
