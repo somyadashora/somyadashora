@@ -7,15 +7,6 @@
 
 [Sublime Text is :heartpulse:](https://www.sublimetext.com/)
 
-### Working at :office_worker: :
-
-[CDAC](https://www.cdac.in/) Bangalore as Project Engineer.
-
-### Working on:
-
-**Can't Disclose** :stuck_out_tongue_winking_eye:
-
-
 ### I know some things about:
 * _[Questasim](https://www.mentor.com/products/fv/questa/)_
 * _[Verilator](https://www.veripool.org/wiki/verilatorVerilator)_
