@@ -5,14 +5,16 @@
 
 
 
-[Sublime Text is :heartpulse:](https://www.sublimetext.com/)
+<!-- [Sublime Text is :heartpulse:](https://www.sublimetext.com/) -->
 
 ### Skills
+
 * _[Questasim](https://www.mentor.com/products/fv/questa/)_
 * _[Verilator](https://www.veripool.org/wiki/verilatorVerilator)_
 * _[Vivado Synthesis](https://www.xilinx.com/products/design-tools/vivado.html)_
 * _[AutoCheck](https://www.mentor.com/products/fv/questa-autocheck)_
 * _[git](https://git-scm.com/)_
+* _Design Compiler_
 * _[Zotero](https://www.zotero.org/)_
 * _[Sublime Text](https://www.sublimetext.com/)_
 
@@ -23,7 +25,7 @@
 * LaTeX, Beamer
 
 
-### Some of My known Works:
+### Some of My known Works
 
 V. Desalphine, _**S. Dashora**_, L. Mali, S. K, A. Raveendran & D. Selvakumar,
 "[**_Novel Method for Verification and Performance Evaluation of
