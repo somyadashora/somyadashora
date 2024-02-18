@@ -1,7 +1,7 @@
 
 <h1 align='center'> Somya Dashora </h1>
 <h3 align='center'> CPU micro-architect & RTL Design Engineer </h3>
-<h4 align='center'> _[:computer:](https://www.linkedin.com/in/somya-dashora-7a395575/)_ </h4>
+<!-- <h4 align='center'> _[:computer:](https://www.linkedin.com/in/somya-dashora-7a395575/)_ </h4> -->
 
 
 
