@@ -1,21 +1,22 @@
 
 <h1 align='center'> Somya Dashora </h1>
-<h3 align='center'> RTL Design Engineer,  Udaipur Rajasthan </h3>
+<h3 align='center'> CPU micro-architect & RTL Design Engineer </h3>
 <h4 align='center'> :computer:(https://www.linkedin.com/in/somya-dashora-7a395575/) </h4>
 
 
 
 [Sublime Text is :heartpulse:](https://www.sublimetext.com/)
 
-### I know some things about:
+### Skills
 * _[Questasim](https://www.mentor.com/products/fv/questa/)_
 * _[Verilator](https://www.veripool.org/wiki/verilatorVerilator)_
 * _[Vivado Synthesis](https://www.xilinx.com/products/design-tools/vivado.html)_
 * _[AutoCheck](https://www.mentor.com/products/fv/questa-autocheck)_
 * _[git](https://git-scm.com/)_
 * _[Zotero](https://www.zotero.org/)_
+* _[Sublime Text](https://www.sublimetext.com/)_
 
-### Languages Known :
+### Languages Known
 
 * Verilog, System Verilog, VHDL, Bluespec
 * Make, tcl, shell
@@ -33,8 +34,6 @@ doi: 10.1109/VDAT50263.2020.9190377.
 ---
 
 ### Other things about me :upside_down_face:
-
-**_Breaking Bad_** is the Single Greatest T.V. shown on the face of this earth (**PERIOD**) !!!
 
 I think the amount of work done is propotional to the amount of time spent listening Jazzz...
 
