@@ -7,23 +7,29 @@
 
 <!-- [Sublime Text is :heartpulse:](https://www.sublimetext.com/) -->
 
+## About Me
+
+Design Engineer with experience in architectural research, design & development
+of RTL IPs. I have worked on micro-architecture design for Processor Core based
+on the open RISC-V ISA. Gained strong analytical, management, debugging and
+problem solving skills along with strong command over HDL & scripting languages.
+Initiative driven, team player; I thrive well in fast-paced work environment.
+
 ### Skills
 
-* _[Questasim](https://www.mentor.com/products/fv/questa/)_
-* _[Verilator](https://www.veripool.org/wiki/verilatorVerilator)_
-* _[Vivado Synthesis](https://www.xilinx.com/products/design-tools/vivado.html)_
-* _[AutoCheck](https://www.mentor.com/products/fv/questa-autocheck)_
-* _[git](https://git-scm.com/)_
 * _Design Compiler_
+* _VCS_, _Questasim_, _[Verilator](https://www.veripool.org/wiki/verilatorVerilator)_
+* _[AutoCheck](https://www.mentor.com/products/fv/questa-autocheck)_
+* _[git](https://git-scm.com/)_ _GitHub_
 * _[Zotero](https://www.zotero.org/)_
 * _[Sublime Text](https://www.sublimetext.com/)_
-
+* _Verible_
+  
 ### Languages Known
 
 * Verilog, System Verilog, VHDL, Bluespec
 * Make, tcl, shell
 * LaTeX, Beamer
-
 
 ### Some of My known Works
 
@@ -34,6 +40,26 @@ RISC-V Superscaler Processor on FPGA_**](https://ieeexplore.ieee.org/document/91
 doi: 10.1109/VDAT50263.2020.9190377.
 
 ---
+
+### Technical Intresets
+
+I am enthusiastic about working on diverse design aspects of architectures/IPs, including but not limited to IOMMU’s,
+Virtualization for Accelerators & DMA Engines, SIMD/Vector Architectures, UCIe & D2D controllers, Hardware assisted garbage
+collection for JIT languages, Compression Engines in Memory Hierarchy etc. I have explored low power architectures for cores
+& caches; have a high level understanding of multivoltage UPF flow, DVFS and am eager to extend my focus in this domain.
+
+I also thoroughly enjoyed developing from scratch a build infrastructure centered around makefiles; which contains
+generic tool scripts, directory structure & file naming format. It supports process nodes such as TSMC 16nm, 5nm and
+more recently 3nm. The tools included were synopsys vcs, design compiler, formality, spyglass, primetime, primepower;
+functional safety tools such as vc-fsm, vc-zoix and the open source style lint tool verible. This streamlined the entire
+frontend toolflow, reducing turn-around time for any new or existing IPs.
+
+**I enjoy working on various aspects of IP development; codebase, scripts & documentation management, defining and
+developing toolflows/workflows; working around open source tools.**
+
+
+---
+
 
 ### Other things about me :upside_down_face:
 
@@ -47,6 +73,10 @@ I think the amount of work done is propotional to the amount of time spent liste
 	 * [12 Hours of John Coltrane](https://www.youtube.com/watch?v=TuogFx7ADRs&list=PLRcVhl4cKJmoUtjUgZybn4lVMOTZ21TPg&index=77)
 
 * [Miles Davis](https://www.youtube.com/watch?v=lKoybkBF9Ik&list=PLRcVhl4cKJmoUtjUgZybn4lVMOTZ21TPg&index=22)
+
+---
+
+EoF
 
 <!--
 **somyadashora/somyadashora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
