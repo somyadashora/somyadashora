@@ -4,6 +4,7 @@
 
 <p align="center">
   <samp>
+    <a href="https://github.com/somyadashora/somyadashora/releases/latest/download/Somya_Dashora_Resume.pdf"><b>resume (pdf)</b></a> ·
     <a href="mailto:somyadashora@gmail.com">email</a> ·
     <a href="https://www.linkedin.com/in/somya-dashora-7a395575/">linkedin</a> ·
     <a href="#-patents--papers">patents</a> ·
